@@ -8,19 +8,16 @@ import java.util.Objects;
 
 public class Component {
 private String name;
-
 private List<Integer> result = new ArrayList<Integer>();
 
 
     public Component() {
-
     this.result.addAll(Arrays.asList(0,0));
     }
 
 
     public Component(String name, List<Integer> result) {
         this.name = name;
-
         this.result.addAll(Arrays.asList(0,0));
     }
 

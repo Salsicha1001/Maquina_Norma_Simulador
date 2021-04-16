@@ -85,9 +85,7 @@ public class Main {
     }  if(neg == true&& neg1 == true){
                 componentList.get(0).setResultNeg(0);
             }
-
           System.out.println("O resultado da multiplicação é "+ componentList.get(0).getResult());
-
         }
 
     public static void subtracao(){
@@ -176,7 +174,6 @@ private static void Contador(Component c, int a){
         if(component.getResult().get(0)==1&& component.getResult().get(1)==0){
             component.setResultNeg(0);
         }
-
         System.out.println("Valor de "+ component.getName()+ " fica "+ component.getResult().get(1));
         System.out.println("=============================================================");
         return component;
