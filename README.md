@@ -23,5 +23,5 @@ Abaixo agora vaai passar as macros de dois tipos de soma, multiplicação e subt
 ![img_8.png](img_8.png)
 
 As funções detalha passa tudo detalhado de como vai ser incrementando e decrementando como a maquina norma faria;
-
+Obs:No caso da soma existe dois tipos de função que você possa testar para ver a diferença;
 
